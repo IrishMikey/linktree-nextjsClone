@@ -1,0 +1,26 @@
+{
+    "name": "Mikey Geraghty",
+    "avatar" : "https://pbs.twimg.com/profile_images/1365974052008054785/4KyMI6Nq_400x400.jpg",
+    "links" : [
+        {
+            "title": "My Personal Site",
+            "url": "https://mikey.ie",
+            "image": "https://pbs.twimg.com/profile_images/1365974052008054785/4KyMI6Nq_400x400.jpg"
+        },
+        {
+            "title": "X",
+            "url": "https://x.com/geraghtymikey",
+            "image": "https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png"
+        },
+         {
+            "title": "GitHub",
+            "url": "https://x.com/geraghtymikey",
+            "image": "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png"
+        },
+         {
+            "title": "LinkedIn",
+            "url": "https://linkedin.com/in/michaeldanielgeraghty",
+            "image": "https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"
+        }
+    ]
+}
