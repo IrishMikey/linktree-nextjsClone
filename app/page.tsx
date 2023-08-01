@@ -13,11 +13,11 @@ function LinkCard({
   return (
     <a
       href={url}
-      className="w-full flex  bg-white mb-2 rounded-lg"
+      className="w-full flex  bg-white mb-2 rounded-lg hover:scale-110 transition-all duration-100"
     >
       <div className="flex justify-between p-4  shadow-md hover:shadow-xl transition-shadow duration-200 w-full">
         {image && ( <Image src={image} alt={title +" image"} width={25} height={25} className="rounded"/>)}
-        <h2 className="text-lg flex-grow text-center">{title}</h2>
+        <h2 className="text-lg font-semibold flex-grow text-center">{title}</h2>
       </div>
     </a>
   );
